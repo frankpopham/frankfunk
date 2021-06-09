@@ -1,2 +1,2 @@
-# frankfunk2
+# frankfunk
 some functions
